@@ -1,0 +1,21 @@
+serial_number	author	Implicit_sentiment	Explicit_sentiment
+ 1	Piotrowski, 2012                                                  	 0.55053314	 0.141666667
+ 2	c(Jurish, 2010, Bollmann, 2012, Amoia and Martinez, 2013)         	 0.03030458	 0.000000000
+ 3	Bollmann, 2012                                                    	 0.32215720	 0.267401287
+ 4	Dipper and Schultz-Balluff, 2013                                  	 0.47223346	 0.214662526
+ 5	Krasselt et al. (2015)                                            	 0.22628118	 0.151096620
+ 6	Levenshtein, 1966                                                 	 0.34623304	-0.084678039
+ 7	Wieling et al., 2009                                              	 0.10049269	 0.228191649
+ 8	Hochreiter and Schmidhuber, 1997                                  	 0.49254051	 0.482807879
+ 9	Caruana, 1993                                                     	 0.46471611	-0.167705098
+10	c(Collobert et al., 2011, Klerke et al., 2016, Luong et al., 2016)	 0.34129676	 0.410221154
+11	Bollmann (2012)                                                   	 0.17936216	 0.000000000
+12	Okazaki, 2007                                                     	 0.04588315	 0.000000000
+13	Baayen et al., 1995                                               	 0.03962970	 0.000000000
+14	Piotrowski (2012)                                                 	 0.05148767	 0.182827585
+15	c(Baron and Rayson, 2008, Bollmann, 2012, Porta et al., 2013)     	 0.13050943	 0.024659848
+16	c(Pettersson et al., 2013, Scherrer and Erjavec, 2013)            	 0.01581139	 0.000000000
+17	Azawi et al. (2013)                                               	 0.26310467	 0.010910895
+18	Bollmann (2012)                                                   	 0.08954292	-0.008006408
+19	Cho et al., 2014                                                  	 0.06868028	 0.000000000
+20	Sutskever et al. (2014)                                           	-0.27018469	-0.106600358

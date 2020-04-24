@@ -1,0 +1,4 @@
+serial_number	author	Implicit_sentiment	Explicit_sentiment
+1	c(Jurish, 2010, , Krasselt et al. (2015), Collobert et al., 2011, , Bollmann (2012), Piotrowski (2012), Baron and Rayson, 2008, , Pettersson et al., 2013, , Azawi et al. (2013), Bollmann (2012), Sutskever et al. (2014))	-0.02946278	-0.02966954
+serial_number	author	Implicit_sentiment	Explicit_sentiment
+1	c(Jurish, 2010, , , Krasselt et al. (2015), Bollmann (2012), Piotrowski (2012), Azawi et al. (2013), Bollmann (2012), Sutskever et al. (2014))	-0.04490133	-0.04564355
