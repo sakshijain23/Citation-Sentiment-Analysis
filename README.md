@@ -4,7 +4,7 @@ In reserach papers, it is very common to see papers being cited in other papers 
 We aims to measure such opinions as the sentiment polarity which the citation context carries towards the cited content.
 
 The objective is to extract citations - both implicit and explicit in a research paper, calculate its sentiment polarity using various R tools in RStudio.
-The sentiment polarity score will tell us how positive, negetive or neutral the citation is by its closeness to 0 and otherwise.
+The sentiment polarity score will tell us how positive, negative or neutral the citation is by its closeness to 0 and otherwise.
 
 Analysis of citation sentiment would open up many exciting new applications in bibliographic search and in bibliometrics, i.e., the automatic evaluation the influence and impact of individuals and journals via citations.
 A very useful application of sentiment analysis is in ranking sites, papers by calculating authors impact through polarity of the citation.
